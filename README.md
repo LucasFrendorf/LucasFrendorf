@@ -3,12 +3,6 @@ I am a student who loves to learn new concepts, tools, and programming languages
 
 As a tinkerer & Linux user, I enjoy modifying and expanding my current setup.
 
-## Things im planning to learn in 2023 (So far)
-![NativeScript](https://user-images.githubusercontent.com/79759936/216055252-01afdc4f-7b90-4bb8-8968-38040b91ce14.png)
-![Java](https://user-images.githubusercontent.com/79759936/216057554-0d8b544c-5061-43ac-86b0-b4dc6a9c95ff.png)
-![Next JS](https://user-images.githubusercontent.com/79759936/216060054-2617b18f-c145-4b3d-ad7a-9ecda5ef2cb9.png)
-
-
 ## Programming Languages & Frameworks & Libary
   ### Well known
   ![Vue.JS](https://user-images.githubusercontent.com/79759936/216052541-1a59c3cd-a9b2-4bad-ab5c-ddf9af334545.png)
