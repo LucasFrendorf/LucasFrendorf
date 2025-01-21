@@ -1,5 +1,5 @@
 ### Hi there I am Lucas 👋
-I am a student who loves to learn new concepts, tools, and programming languages.
+I am a Platform engineer @Thubalka who loves to learn new concepts, tools, and programming languages.
 
 As a tinkerer & Linux user, I enjoy modifying and expanding my current setup.
 
